@@ -2,6 +2,7 @@ import React from 'react';
 import './News.css'
 import img1 from '../../Assets/Images/newsW.jpeg'
 import img2 from '../../Assets/Images/newsWS.jpeg'
+
 const News = () => {
     return (
         <div className="News" style={{backgroundColor:"rgba(248, 215, 220, 0.504)", color:"black", border:"2px solid black"}}>

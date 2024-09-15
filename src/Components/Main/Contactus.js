@@ -1,5 +1,6 @@
 import React from 'react';
 import Button from './Button2';
+
 const ContactUs = () => {
     return (
         <div className="ContactUs" style={{backgroundColor:"rgba(255, 182, 193, 0.504)", color:"black", border:"2px solid black"}}>

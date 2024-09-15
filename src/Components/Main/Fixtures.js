@@ -1,7 +1,6 @@
 import React from 'react';
 import '../../App';
 
-
 function App () {
     return (
         <div className = "App" style={{backgroundColor:"rgba(250, 196, 204, 0.504)", color:"black", border:"2px solid black"}}>
