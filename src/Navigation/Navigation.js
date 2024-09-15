@@ -1,8 +1,8 @@
 import React from "react";
+//Impoorting navbar component
 import Navbar from './Navbar'
+//adding searchbar
 const Navigation = () => {
-
-
 
   return (
     <div>

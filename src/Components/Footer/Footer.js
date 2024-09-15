@@ -1,4 +1,5 @@
 import React from "react";
+//Created a table to achieve desired look for footer
 export default function Footer() {
   return (
     <div className="Footer">

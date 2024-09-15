@@ -1,6 +1,7 @@
 import React from 'react';
+//Importing stylesheet
 import './Navbar.css';
-
+//Linking sections to the navbar
 const Navbar = () => {
     return (
   

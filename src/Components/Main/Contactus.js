@@ -1,4 +1,5 @@
 import React from 'react';
+//Importing Button2 component
 import Button from './Button2';
 
 const ContactUs = () => {

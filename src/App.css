@@ -1,11 +1,13 @@
-body {
+/*App.css*/
+/*most of the css is inline or in a file specific to a component*/
+.body {
     background-color: rgba(255, 182, 193, 0.504)
 }
-h2 {
+.h2 {
     color: black;
 text-align: left;
 }
-h3{
+.h3{
     color: black;
 text-align: center;
 }
